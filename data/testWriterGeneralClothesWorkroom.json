@@ -1,0 +1,19 @@
+{
+    "outfits": [
+        {
+            "footwear": "slides",
+            "top": "jacket",
+            "bottom": "shorts",
+            "accessories": "none",
+            "name": "Outfit One"
+        },
+        {
+            "footwear": "",
+            "top": "",
+            "bottom": "",
+            "accessories": "",
+            "name": "Outfit Two"
+        }
+    ],
+    "o": "my clothes"
+}

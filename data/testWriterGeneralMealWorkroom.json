@@ -1,0 +1,13 @@
+{
+    "n": "my meals",
+    "meals": [
+        {
+            "name": "Apple",
+            "desc": "Breakfast"
+        },
+        {
+            "name": "Banana",
+            "desc": "Lunch"
+        }
+    ]
+}
