@@ -74,13 +74,4 @@ Meals Cleared!
 Thu Nov 25 09:46:57 PST 2021
 Clothes Cleared!
 
-Phase 4 Task 3:
-A lot of refactoring could have been done with regards to the GUI - TaskWindow, ClothingWindow, and MealsMenu all 
-contain the same methods that make up the JFrame: if I had more time, just like with Item and ItemList,
-an abstract class could be created to clean up more duplicate code - this will in fact save a lot of headaches in case 
-I run into a problem, because I would have to not only make one change, but three changes across those three classes.
-As well, some of the method behaviour in my classes does not accurately reflect the description of the class itself.
-For example, several JPanel's and JTextField's were created in each of the three GUI windows for implementing text
-purposes for the user, and these JFrame components could be refactored into it's own class. Lastly, since there
-was limited time in completing the phases, I would also try to refactor the method names and variables to be more 
-specific and attune to the purchase of the behaviour.
+
