@@ -60,18 +60,3 @@ GUI
 - As a user, I want to be able to enter each the fields of each clothing item in a text entry field to appear in the GUI
 - As a user, I want to be able to display a real-time clock that shows each day of the week
 
-Example of an EventLog Occurring:
-Thu Nov 25 09:46:29 PST 2021
-Added Webwork To TaskList!
-Thu Nov 25 09:46:45 PST 2021
-Added Outfit for School To Clothes!
-Thu Nov 25 09:46:54 PST 2021
-Added Lunch To Meals!
-Thu Nov 25 09:46:57 PST 2021
-Tasks Cleared!
-Thu Nov 25 09:46:57 PST 2021
-Meals Cleared!
-Thu Nov 25 09:46:57 PST 2021
-Clothes Cleared!
-
-
