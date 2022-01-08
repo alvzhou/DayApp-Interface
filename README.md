@@ -1,6 +1,6 @@
 # DayApp Planner Interface 
 
-## Introduction to Project Interface
+## Introduction 
 
 
 With everyone at full swing with their busy schedules throughout the school year, it has become more difficult
